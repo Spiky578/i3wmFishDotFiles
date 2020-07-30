@@ -1,0 +1,21 @@
+#!/bin/bash
+
+#Variables here!
+#Kind of a hack job
+WIFI_STATE=$(nmcli -g GENERAl.STATE device show | grep -wo -m 1 "connected\|disconnected")
+WIFI_NAME=$(nmcli -g GENERAl.CONNECTION device show | tr -d \[:space:\])
+
+#wifi state indicator
+#fix this later, make it clean and stuff
+if [[ "${WIFI_STATE}" = "connected" ]]; then
+	WIFI_STATE_PRETTY="<span size='large'></span>"
+fi
+
+
+#shows the name and icon, and also the not connected icon
+if [[ "${WIFI_STATE}" = "connected" ]]; then
+	echo "${WIFI_STATE_PRETTY} <span size='medium' rise='2000'>${WIFI_NAME}.</span>"
+	#echo "${WIFI_STATE_PRETTY} <span size='small' rise='2000'>${WIFI_NAME}.</span>"
+elif [[ "${WIFI_STATE}" = "disconnected" ]]; then
+	echo "<span size='xx-large'>睊</span>"
+fi

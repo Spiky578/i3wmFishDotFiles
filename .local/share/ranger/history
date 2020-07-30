@@ -1,0 +1,19 @@
+delete yay
+vim .Xresources
+shell vim .Xresources
+Q
+search x11
+wq
+vim config.fish
+!vim config fish
+shell vim config.fish
+search xinit
+shell 
+shell mkdir nvim
+w
+delete
+shell feh
+shell feh --bg-fill
+search vifm
+search vifmrun
+

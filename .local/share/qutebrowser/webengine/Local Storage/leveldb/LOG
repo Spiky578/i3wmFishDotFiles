@@ -1,0 +1,18 @@
+2020/07/30-01:05:57.345 134d9 Reusing MANIFEST /home/tuna/.local/share/qutebrowser/webengine/Local Storage/leveldb/MANIFEST-000001
+2020/07/30-01:05:57.345 134d9 Recovering log #376
+2020/07/30-01:05:57.345 134d9 Reusing old log /home/tuna/.local/share/qutebrowser/webengine/Local Storage/leveldb/000376.log 
+2020/07/30-01:27:20.951 1fd07 Level-0 table #380: started
+2020/07/30-01:27:21.011 1fd07 Level-0 table #380: 136829 bytes OK
+2020/07/30-01:27:21.013 1fd07 Delete type=0 #376
+2020/07/30-01:27:21.013 1fd07 Compacting 4@0 + 1@1 files
+2020/07/30-01:27:21.058 1fd07 Generated table #381@0: 921 keys, 1058589 bytes
+2020/07/30-01:27:21.058 1fd07 Compacted 4@0 + 1@1 files => 1058589 bytes
+2020/07/30-01:27:21.059 1fd07 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/07/30-01:27:21.060 1fd07 Delete type=2 #373
+2020/07/30-01:27:21.060 1fd07 Delete type=2 #375
+2020/07/30-01:27:21.060 1fd07 Delete type=2 #377
+2020/07/30-01:27:21.060 1fd07 Delete type=2 #380
+2020/07/30-01:27:21.060 1fd07 Delete type=2 #371
+2020/07/30-01:31:44.929 1fd07 Level-0 table #383: started
+2020/07/30-01:31:44.985 1fd07 Level-0 table #383: 130851 bytes OK
+2020/07/30-01:31:44.987 1fd07 Delete type=0 #379

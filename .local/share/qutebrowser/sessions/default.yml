@@ -1,0 +1,28 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAgAAAAQgAAC5cAAAevAAAAIgAAAEQAAAuVAAAHrQAAAAAAAAAAC7gAAAAiAAAA
+    RAAAC5UAAAet
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/feed/history
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: rtgame nuzlocke - YouTube
+      url: https://www.youtube.com/results?search_query=rtgame+nuzlocke
+      zoom: 2.0

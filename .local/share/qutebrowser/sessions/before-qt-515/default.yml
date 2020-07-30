@@ -1,0 +1,43 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAAAAAAEgAABdsAAAe8AAAAAgAAABIAAAXZAAAHugAAAAAAAAAAC7gAAAACAAAA
+    EgAABdkAAAe6
+  tabs:
+  - history:
+    - pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: luke smith st at DuckDuckGo
+      url: https://duckduckgo.com/?q=luke+smith+st&ia=web
+    - pinned: false
+      title: luke smith st at DuckDuckGo
+      url: https://duckduckgo.com/?q=luke+smith+st&iax=images&ia=images
+    - pinned: false
+      title: luke smith st at DuckDuckGo
+      url: https://duckduckgo.com/?q=luke+smith+st&ia=web&iai=r1-0&page=1&adx=sltb&sexp=%7B%22v7exp%22%3A%22a%22%2C%22sltexp%22%3A%22b%22%2C%22wiadrk%22%3A%22b%22%7D
+    - active: true
+      original-url: https://duckduckgo.com/?q=luke+smith+st&ia=web&iai=r1-0&page=1&adx=sltb&sexp=%7B%22v7exp%22%3A%22a%22%2C%22sltexp%22%3A%22b%22%2C%22wiadrk%22%3A%22b%22%7D
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 1800
+      title: 'GitHub - LukeSmithxyz/st: Luke''s fork of the suckless simple terminal
+        (st) with vim bindings and Xresource compatibility.'
+      url: https://github.com/lukesmithxyz/st
+      zoom: 1.5
+  - active: true
+    history:
+    - pinned: false
+      title: aur yay arch at DuckDuckGo
+      url: https://duckduckgo.com/?q=aur+yay+arch&ia=images&iai=r1-3&page=1&adx=prdsdc&sexp=%7B%22v7exp%22%3A%22a%22%2C%22sltexp%22%3A%22b%22%2C%22prodexp%22%3A%22b%22%2C%22prdsdexp%22%3A%22c%22%2C%22wiadrk%22%3A%22a%22%7D
+    - active: true
+      original-url: https://duckduckgo.com/?q=aur+yay+arch&ia=images&iai=r1-3&page=1&adx=prdsdc&sexp=%7B%22v7exp%22%3A%22a%22%2C%22sltexp%22%3A%22b%22%2C%22prodexp%22%3A%22b%22%2C%22prdsdexp%22%3A%22c%22%2C%22wiadrk%22%3A%22a%22%7D
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: How to Use AUR with Arch Linux – Linux Hint
+      url: https://linuxhint.com/aur_arch_linux/
+      zoom: 1.25

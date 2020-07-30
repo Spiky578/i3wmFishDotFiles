@@ -1,0 +1,79 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAgAAAAQgAAC5cAAAevAAAAIgAAAEQAAAuVAAAHrQAAAAAAAAAAC7gAAAAiAAAA
+    RAAAC5UAAAet
+  tabs:
+  - history:
+    - pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: About DuckDuckGo
+      url: https://start.duckduckgo.com/about
+    - pinned: false
+      title: YouTube
+      url: https://www.youtube.com/
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 191
+      title: nuzlocke rtgame - YouTube
+      url: https://www.youtube.com/results?search_query=nuzlocke+rtgame
+      zoom: 2.0
+  - history:
+    - pinned: false
+      title: Inbox (450) - ethanryanpotter@gmail.com - Gmail
+      url: https://mail.google.com/mail/u/0/#inbox
+    - active: true
+      original-url: https://mail.google.com/mail/u/0/#inbox
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '[GitHub] Please reset your password - ethanryanpotter@gmail.com - Gmail'
+      url: https://mail.google.com/mail/u/0/#inbox/FMfcgxwJXCHGZvhJtKgsGZfNXwJkDfMQ
+      zoom: 2.0
+  - history:
+    - pinned: false
+      title: Change your password · GitHub
+      url: https://github.com/password_reset/AQKZT2F6QLOE6HODVEACKLS7EKYIRBFFMVWWC2LMXFSXI2DBNZZHSYLOOBXXI5DFOJAGO3LBNFWC4Y3PNWSWM33SMNS4FM3UO5XV6ZTBMN2G64S7OZSXE2LGNFSWJQV2MZXXEY3FMRPXOZLBNNPXAYLTON3W64TEL5ZGK43FOTBA
+    - original-url: https://github.com/password_reset/AQKZT2F6QLOE6HODVEACKLS7EKYIRBFFMVWWC2LMXFSXI2DBNZZHSYLOOBXXI5DFOJAGO3LBNFWC4Y3PNWSWM33SMNS4FM3UO5XV6ZTBMN2G64S7OZSXE2LGNFSWJQV2MZXXEY3FMRPXOZLBNNPXAYLTON3W64TEL5ZGK43FOTBA
+      pinned: false
+      title: Sign in to GitHub · GitHub
+      url: https://github.com/login
+    - original-url: https://github.com/session
+      pinned: false
+      title: GitHub
+      url: https://github.com/
+    - pinned: false
+      title: Create a New Repository
+      url: https://github.com/new
+    - original-url: https://github.com/repositories
+      pinned: false
+      title: 'Spiky578/i3wmFishDotFiles: This is my personal dotfiles. In an attempt
+        to fully embrace Arch Linux and i3wm. Hopefully this is cool someday!'
+      url: https://github.com/Spiky578/i3wmFishDotFiles
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 780
+      title: Upload files · Spiky578/i3wmFishDotFiles
+      url: https://github.com/Spiky578/i3wmFishDotFiles/upload/master
+      zoom: 2.0
+  - active: true
+    history:
+    - pinned: false
+      title: using github at DuckDuckGo
+      url: https://duckduckgo.com/?q=using+github&ia=about&iai=r1-0&page=1&adx=prdsdc&sexp=%7B%22v7exp%22%3A%22a%22%2C%22sltexp%22%3A%22b%22%2C%22prodexp%22%3A%22b%22%2C%22prdsdexp%22%3A%22c%22%2C%22wiadrk%22%3A%22b%22%7D
+    - active: true
+      original-url: https://duckduckgo.com/?q=using+github&ia=about&iai=r1-0&page=1&adx=prdsdc&sexp=%7B%22v7exp%22%3A%22a%22%2C%22sltexp%22%3A%22b%22%2C%22prodexp%22%3A%22b%22%2C%22prdsdexp%22%3A%22c%22%2C%22wiadrk%22%3A%22b%22%7D
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 2772
+      title: An Intro to Git and GitHub for Beginners (Tutorial)
+      url: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+      zoom: 2.0

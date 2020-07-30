@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/tuna/Pictures/Wallpaper/747382.jpg' 

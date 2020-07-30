@@ -1,0 +1,6 @@
+2020/07/18-05:30:43.802 985f Reusing MANIFEST /home/tuna/.local/share/qutebrowser/webengine/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/18-05:30:43.802 985f Recovering log #3
+2020/07/18-05:30:43.804 985f Reusing old log /home/tuna/.local/share/qutebrowser/webengine/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
+2020/07/18-05:31:26.268 9e0a Level-0 table #5: started
+2020/07/18-05:31:26.275 9e0a Level-0 table #5: 4425439 bytes OK
+2020/07/18-05:31:26.276 9e0a Delete type=0 #3
