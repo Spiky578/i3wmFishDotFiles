@@ -2131,3 +2131,15 @@ config.load_autoconfig()
 
 #Nord Theme Insert
 config.source('nord-qutebrowser.py')
+
+#import dracula.draw
+
+# Load existing settings made via :set
+#config.load_autoconfig()
+#
+#dracula.draw.blood(c, {
+#    'spacing': {
+#        'vertical': 6,
+#        'horizontal': 8
+#    }
+#})

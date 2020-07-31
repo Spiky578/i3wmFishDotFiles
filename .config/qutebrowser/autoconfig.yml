@@ -25,7 +25,7 @@ settings:
   fonts.default_family:
     global: futura
   fonts.default_size:
-    global: 8pt
+    global: 9pt
   fonts.hints:
     global: bold size 12 default_family
   fonts.tabs.selected:

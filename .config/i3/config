@@ -10,6 +10,9 @@ bindsym $mod+Return exec 'st'
 bindsym $mod+w exec 'qutebrowser'
 bindsym $mod+Shift+w exec st -e 'nmtui'
 bindsym $mod+r exec st -e 'vifm'
+#bindsym $mod+d exec rofi -show run -line 3 -eh 2 -width 100 -padding 800 -opacity "85' -bw 0 -bc 
+
+bindsym $mod+d exec rofi -show run -lines 3 -eh 2 -fullscreen -padding 800 -opacity "85" -bw 0 -bc "#347b98" -bg "#347b98" -fg "#f7d7d4" -hlbg "#347b98" -hlfg "#9575cd" -font "futura 25"
 
 #dropdownterminal.
 #this one has dpi issues using -n instead of -c
@@ -39,15 +42,11 @@ bindsym $mod+j focus down
 bindsym $mod+k focus up
 bindsym $mod+l focus right
 
-#cycleworkspaces.
-bindsym $mod+Tab workspace next
-bindsym $mod+Shift+Tab workspace prev
-
 #movefocusedwindow.
-#bindsym $mod+Shift+h move left
-#bindsym $mod+Shift+j move down
-#bindsym $mod+Shift+k move up
-#bindsym $mod+Shift+l move right
+bindsym $mod+Ctrl+h move left
+bindsym $mod+Ctrl+j move down
+bindsym $mod+Ctrl+k move up
+bindsym $mod+Ctrl+l move right
 
 #resizefocusedwindow.
 bindsym $mod+Shift+h resize shrink width 10 px or 10 ppt
@@ -59,6 +58,10 @@ bindsym $mod+Shift+l resize grow width 10 px or 10 ppt
 bindsym $mod+u split h
 bindsym $mod+i split v
 
+#cycleworkspaces.
+bindsym $mod+Tab workspace next
+bindsym $mod+Shift+Tab workspace prev
+
 #enterfullscreenmode.
 bindsym $mod+shift+f fullscreen toggle
 
@@ -67,8 +70,9 @@ bindsym $mod+space floating toggle
 
 #restart_i3. 
 bindsym $mod+Shift+r restart
-#logout. 
-#bindsym $mod+Shift+BackSpace exec st -e 
+#shutdown. 
+bindsym $mod+Shift+BackSpace exec shutdown now
+#bindsym $mod+Shift+BackSpace exec systemctl poweroff
 
 #volume_keys.
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
@@ -139,6 +143,9 @@ bindsym $mod+n border normal
 # Hide borders
 hide_edge_borders none
 
+# Smart hide borders.
+smart_borders on
+
 # Gaps v2
 gaps inner 10
 gaps outer 6
@@ -152,26 +159,21 @@ set_from_resource $fg i3wm.color7 #f0f0f0
 set_from_resource $bg i3wm.color1 #f0f0f0
 
 # class                 border  backgr. text indicator child_border
-client.focused          $bg     $bg     $fg  $bg       $bg
-client.focused_inactive $bg     $bg     $fg  $bg       $bg
-client.unfocused        $bg     $bg     $fg  $bg       $bg
-client.urgent           $bg     $bg     $fg  $bg       $bg
-client.placeholder      $bg     $bg     $fg  $bg       $bg
+client.focused           #347b98 $bg     $fg  #f7d7d4   #347b98
+#client.focused_inactive #fb9902 $bg     $fg  $bg       #fb9902
+#client.unfocused        #fb9902 $bg     $fg  $bg       #fb9902
+#client.urgent           $bg     $bg     $fg  $bg       $bg
+#client.placeholder      $bg     $bg     $fg  $bg       $bg
 
 client.background       $bg
 
-#this is polybar.
-#exec_always --no-startup-id bash $HOME/.config/polybar/launch.sh
-#this is the i3blocks bar.
+#i3bar script.
 bar {
 	status_command i3blocks
 	position top
-	#font pango:OfficeCodePro-Medium 8
-	#font pango:Input-Regular_(InputMono-Regular), Awesome 8
-	#font pango:OfficeCodePro Nerd Font 8
 	#font pango:Input, Awesome 8
 	font pango:Futura-Bold, Awesome 8
-	#font pango:Ubuntu, Awesome 8
+	
 	#bar colors.
 	colors {
         background #2f343f
@@ -180,8 +182,6 @@ bar {
 
         # colour of             bdr     bg      text
         focused_workspace       #2f343f #2f343f #fb9902
-        #focused_workspace       #2f343f #2f343f #ed1683
-        #focused_workspace       #2f343f #FF8C94 #000000
         active_workspace        #2f343f #2f343f #d8dee8
         inactive_workspace      #2f343f #2f343f #fe2712
         urgent_workspacei       #2f343f #ebcb8b #2f343f
