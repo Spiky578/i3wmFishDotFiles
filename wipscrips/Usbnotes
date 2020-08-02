@@ -1,0 +1,40 @@
+commands to mount (using udisk)
+
+lsblk will give the device name
+
+> udisksctl mount -b [/dev/DEVICENAME]
+> udisksctl unmount -b [/dev/DEVICENAME]
+
+> lsblk -dn | grep -v "nvme0n1 259:0    0  477G  0 disk"
+this gives me 
+> sda       8:0    1 14.5G  0 disk
+
+> lsblk -o PATH 
+this gives me
+> PATH
+>/dev/sda
+>/dev/sda1
+>/dev/nvme0n1
+>/dev/nvme0n1p1
+>/dev/nvme0n1p2
+>/dev/nvme0n1p3
+
+> lsblk -e 259 -o KNAME
+gives me
+> KNAME
+> sda
+> sda1
+
+> lsblk -e 259 -o PATH -n
+/dev/sda
+/dev/sda1
+
+> lsblk -e 259 -o KNAME -n | grep -n 1 | tr -d '2:'
+=
+> sda1
+!!!!
+
+made fishusb baskscript, but it needs alot:
+- detector for when drive mounts
+- a click event to unmount the drive
+- possibly work on it retrying to mount every 5 seconds
