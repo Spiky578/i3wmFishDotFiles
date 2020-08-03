@@ -1,3 +1,38 @@
+#[fishusbtest]
+#command=fishusbtest
+#markup=pango
+#min_width=200
+#align=center
+#interval=1
+#color=#f7d7d4
+#background=#347b98
+
+#[testbutton]
+#command=testbutton
+#markup=pango
+#min_width=200
+#align=center
+#interval=1
+#color=#f7d7d4
+#background=#347b98
+
+#[fishusbunplug]
+#command=fishusbunplug
+#markup=pango
+#min_width=200
+#align=center
+#interval=10
+#background=#347b98
+
+
+#[fishusb]
+#command=fishusb
+#markup=pango
+#min_width=200
+#align=center
+#interval=10
+#background=#347b98
+
 [wifi]
 command=fishwifi
 markup=pango
@@ -7,7 +42,7 @@ interval=1
 color=#f7d7d4
 background=#347b98
 
-[volume]
+[fishvolume]
 command=fishvolume
 markup=pango
 min_width=200
@@ -35,5 +70,7 @@ color=#fb9902
 background=#fe2712
 
 [padding]
-full_text=
+full_text=<span size='large'> </span>
+markup=pango
+color=#ffffff
 

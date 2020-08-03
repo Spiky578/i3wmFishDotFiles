@@ -10,17 +10,8 @@ bindsym $mod+Return exec 'st'
 bindsym $mod+w exec 'qutebrowser'
 bindsym $mod+Shift+w exec st -e 'nmtui'
 bindsym $mod+r exec st -e 'vifm'
-#bindsym $mod+d exec rofi -show run -line 3 -eh 2 -width 100 -padding 800 -opacity "85' -bw 0 -bc 
-
-bindsym $mod+d exec rofi -show run -lines 3 -eh 2 -fullscreen -padding 800 -opacity "85" -bw 0 -bc "#347b98" -bg "#347b98" -fg "#f7d7d4" -hlbg "#347b98" -hlfg "#9575cd" -font "futura 25"
-
-#dropdownterminal.
-#this one has dpi issues using -n instead of -c
-#bindsym $mod+Shift+Return scratchpad show
-#for_window [instance="dropdown"] floating enable
-#for_window [instance="dropdown"] move scratchpad
-#for_window [instance="dropdown"] border pixel 2
-#exec --no-startup-id st -n "dropdown" 
+bindsym $mod+d exec dmenu_run 
+bindsym $mod+Shift+s exec steam
 
 #dropdownterminal.
 bindsym $mod+Shift+Return scratchpad show
@@ -29,8 +20,15 @@ for_window [class="dropdown"] move scratchpad
 for_window [class="dropdown"] border pixel 2
 exec --no-startup-id st -c "dropdown" 
 
-#assignmpvto5.
-assign [class="mpv"] 5 
+#assignstufftoplaces.
+assign [class="mpv"] 7:Shark
+
+#steamssignstufftoplaces.
+assign [class="Steam"] 9:Squid
+assign [class="factorio"] 8:Pike
+assign [class="payday2_release"] 8:Pike
+for_window [class="payday2_release"] floating disable
+for_window [class="payday2_release"] border pixel 0
 
 #==========|keybindings.|==========#
 #killwindow.
@@ -63,7 +61,7 @@ bindsym $mod+Tab workspace next
 bindsym $mod+Shift+Tab workspace prev
 
 #enterfullscreenmode.
-bindsym $mod+shift+f fullscreen toggle
+bindsym $mod+f fullscreen toggle
 
 #toggle_floating.
 bindsym $mod+space floating toggle
@@ -75,14 +73,14 @@ bindsym $mod+Shift+BackSpace exec shutdown now
 #bindsym $mod+Shift+BackSpace exec systemctl poweroff
 
 #volume_keys.
-bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
-bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -10% && $refresh_i3status
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +5% && $refresh_i3status
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -5% && $refresh_i3status
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
 
 #brightness_keys.
-bindsym XF86MonBrightnessUp exec "xbacklight -inc 10; notify-send 'brightness up'"
-bindsym XF86MonBrightnessDown exec "xbacklight -dec 10; notify-send 'brightness down'"
+bindsym XF86MonBrightnessUp exec "xbacklight -inc 1; notify-send 'brightness up'"
+bindsym XF86MonBrightnessDown exec "xbacklight -dec 1; notify-send 'brightness down'"
 
 # We use variables to avoid repeating the names in multiple places.
 set $ws1 "1:Octopus"
@@ -183,7 +181,7 @@ bar {
         # colour of             bdr     bg      text
         focused_workspace       #2f343f #2f343f #fb9902
         active_workspace        #2f343f #2f343f #d8dee8
-        inactive_workspace      #2f343f #2f343f #fe2712
-        urgent_workspacei       #2f343f #ebcb8b #2f343f
+        inactive_workspace      #2f343f #2f343f #347b98
+        urgent_workspace        #2f343f #2f343f #fe2712
     }
 }

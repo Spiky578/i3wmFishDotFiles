@@ -12,7 +12,7 @@
 
 ## This is here so configs done via the GUI are still loaded.
 ## Remove it to not load settings done via the GUI.
-config.load_autoconfig()
+#config.load_autoconfig()
 
 ## Aliases for commands. The keys of the given dictionary are the
 ## aliases, while the values are the commands they map to.
@@ -451,7 +451,7 @@ config.load_autoconfig()
 ## Background color for webpages if unset (or empty to use the theme's
 ## color).
 ## Type: QtColor
-# c.colors.webpage.bg = 'white'
+#c.colors.webpage.bg = 'grey'
 
 ## Which algorithm to use for modifying how colors are rendered with
 ## darkmode.
@@ -1036,14 +1036,15 @@ config.load_autoconfig()
 ## font setting, it's replaced with the fonts listed here. If set to an
 ## empty value, a system-specific monospace default is used.
 ## Type: List of Font, or Font
-# c.fonts.default_family = []
+c.fonts.default_family = 'futura'
 
 ## Default font size to use. Whenever "default_size" is used in a font
 ## setting, it's replaced with the size listed here. Valid values are
 ## either a float value with a "pt" suffix, or an integer value with a
 ## "px" suffix.
 ## Type: String
-# c.fonts.default_size = '10pt'
+c.fonts.default_size = '9pt'
+
 
 ## Font used for the downloadbar.
 ## Type: Font
@@ -1079,11 +1080,11 @@ config.load_autoconfig()
 
 ## Font used for selected tabs.
 ## Type: Font
-# c.fonts.tabs.selected = 'default_size default_family'
+c.fonts.tabs.selected = 'bold default_size default_family'
 
 ## Font used for unselected tabs.
 ## Type: Font
-# c.fonts.tabs.unselected = 'default_size default_family'
+c.fonts.tabs.unselected = 'bold default_size default_family'
 
 ## Font family for cursive fonts.
 ## Type: FontFamily
@@ -1521,7 +1522,7 @@ config.load_autoconfig()
 ##   - always: Always show the statusbar.
 ##   - never: Always hide the statusbar.
 ##   - in-mode: Show the statusbar when in modes other than normal mode.
-# c.statusbar.show = 'always'
+c.statusbar.show = 'in-mode'
 
 ## List of widgets displayed in the statusbar.
 ## Type: List of String
@@ -1646,7 +1647,7 @@ config.load_autoconfig()
 
 ## Padding (in pixels) around text for tabs.
 ## Type: Padding
-# c.tabs.padding = {'top': 0, 'bottom': 0, 'left': 5, 'right': 5}
+c.tabs.padding = {'top': 4, 'bottom': 2, 'left': 5, 'right': 5}
 
 ## Force pinned tabs to stay at fixed URL.
 ## Type: Bool
@@ -1663,7 +1664,7 @@ config.load_autoconfig()
 ##   - bottom
 ##   - left
 ##   - right
-# c.tabs.position = 'top'
+c.tabs.position = 'bottom'
 
 ## Which tab to select when the focused tab is removed.
 ## Type: SelectOnRemove
@@ -1807,7 +1808,7 @@ config.load_autoconfig()
 
 ## Default zoom level.
 ## Type: Perc
-# c.zoom.default = '100%'
+c.zoom.default = '175%'
 
 ## Available zoom levels.
 ## Type: List of Perc
@@ -1854,7 +1855,8 @@ config.load_autoconfig()
 # config.bind('<Ctrl-A>', 'navigate increment')
 # config.bind('<Ctrl-Alt-p>', 'print')
 # config.bind('<Ctrl-B>', 'scroll-page 0 -1')
-# config.bind('<Ctrl-D>', 'scroll-page 0 0.5')
+config.bind('<d>', 'scroll-page 0 0.5')
+config.bind('<u>', 'scroll-page 0 -0.5')
 # config.bind('<Ctrl-F5>', 'reload -f')
 # config.bind('<Ctrl-F>', 'scroll-page 0 1')
 # config.bind('<Ctrl-N>', 'open -w')
@@ -1893,7 +1895,7 @@ config.load_autoconfig()
 # config.bind('J', 'tab-next')
 # config.bind('K', 'tab-prev')
 # config.bind('L', 'forward')
-# config.bind('M', 'bookmark-add')
+#config.bind('M', ' ')
 # config.bind('N', 'search-prev')
 # config.bind('O', 'set-cmd-text -s :open -t')
 # config.bind('PP', 'open -t -- {primary}')
@@ -1941,8 +1943,10 @@ config.load_autoconfig()
 # config.bind('j', 'scroll down')
 # config.bind('k', 'scroll up')
 # config.bind('l', 'scroll right')
-# config.bind('m', 'quickmark-save')
+config.bind('m', 'hint links spawn umpv --detach {hint-url}')
+config.bind('M', 'hint links spawn umpv {hint-url}')
 # config.bind('n', 'search-next')
+#        m: spawn mpv {hint-url}
 # config.bind('o', 'set-cmd-text -s :open')
 # config.bind('pP', 'open -- {primary}')
 # config.bind('pp', 'open -- {clipboard}')
@@ -1978,7 +1982,7 @@ config.load_autoconfig()
 # config.bind('tsH', 'config-cycle -p -t -u *://*.{url:host}/* content.javascript.enabled ;; reload')
 # config.bind('tsh', 'config-cycle -p -t -u *://{url:host}/* content.javascript.enabled ;; reload')
 # config.bind('tsu', 'config-cycle -p -t -u {url} content.javascript.enabled ;; reload')
-# config.bind('u', 'undo')
+config.bind('U', 'undo')
 # config.bind('v', 'enter-mode caret')
 # config.bind('wB', 'set-cmd-text -s :bookmark-load -w')
 # config.bind('wIh', 'devtools left')
@@ -2130,7 +2134,10 @@ config.load_autoconfig()
 #config.source('qutewal.py')
 
 #Nord Theme Insert
-config.source('nord-qutebrowser.py')
+#config.source('nord-qutebrowser.py')
+
+#Fish Theme Insert
+config.source('fishtheme.py')
 
 #import dracula.draw
 
