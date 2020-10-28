@@ -4,51 +4,30 @@ BATTERY=0
 BATTERY_INFO=$(acpi -b | grep "Battery ${BATTERY}")
 BATTERY_STATE=$(echo "${BATTERY_INFO}" | grep -wo "Full\|Charging\|Discharging")
 BATTERY_POWER=$(echo "${BATTERY_INFO}" | grep -o '[0-9]\+%' | tr -d '%')
-#BATTERY_POWER=50
-#BATTERY_STATE=Charging
-
-#Notes.
-#0/4 = 0-20
-#1/4 = 21-40
-#1/2 = 41-60
-#3/4 = 61-90
-#4/4 = 91-100
 
 if [[ "${BATTERY_STATE}" = "Charging" ]]; then
 	CHARGE_IND="<span size='large'></span>"
-	#CHARGE_IND="<span size='large' color='yellow'></span>"
 fi
 
 if [[ "${BATTERY_POWER}" -ge "91" ]]; then
 
-#	echo "${CHARGE_IND}   ${BATTERY_POWER}%"
 	echo "${BATTERY_POWER}% <span size='large'></span> ${CHARGE_IND}" 
 
 elif [[ "${BATTERY_POWER}" -ge "61" ]]; then
 
-#	echo "${CHARGE_IND}   ${BATTERY_POWER}%"
 	echo "${BATTERY_POWER}% <span size='large'></span> ${CHARGE_IND}" 
 
 elif [[ "${BATTERY_POWER}" -ge "41" ]]; then
 
-#	echo "${CHARGE_IND}  ${BATTERY_POWER}%"
 	echo "${BATTERY_POWER}% <span size='large'></span> ${CHARGE_IND}" 
 
 elif [[ "${BATTERY_POWER}" -ge "15" ]]; then
 
-	#echo "${CHARGE_IND} <span size='large'></span> <span size='small'>${BATTERY_POWER}%</span>"
 	echo "${BATTERY_POWER}% <span size='large'></span> ${CHARGE_IND}" 
 
 elif [[ "${BATTERY_POWER}" -ge "0" ]]; then
 
-#	echo "${CHARGE_IND}  ${BATTERY_POWER}%"
 	echo "${BATTERY_POWER}% <span size='large'></span> ${CHARGE_IND}" 
 
 fi
 
-#if [[ "${BATTERY_STATE}" = "Discharging" ]]; then
-#	CHARGE_IND=$("C")
-#fi
-
-#echo "${CHARGE_IND}"
-#

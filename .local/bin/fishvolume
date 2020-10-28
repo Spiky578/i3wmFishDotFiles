@@ -4,7 +4,7 @@
 #im using alsa because reasons
 VOLUME_STATE=$(amixer sget Master | grep -wo -m 1 "on\|off")
 VOLUME_PERCENT=$(amixer sget Master | grep -o -m 1 '[0-9]\+%' | tr -d '%')
-
+COLORFG=$(xrdb -query | grep '*color2'| awk '{print $NF}')
 
 # volume percentage convert into the icons
 # also the % can go above 100% so DBZ meme nessesitated

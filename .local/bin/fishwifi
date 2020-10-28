@@ -14,8 +14,7 @@ fi
 
 #shows the name and icon, and also the not connected icon
 if [[ "${WIFI_STATE}" = "connected" ]]; then
-	echo "${WIFI_STATE_PRETTY} <span size='medium' rise='2000'>${WIFI_NAME}.</span>"
-	#echo "${WIFI_STATE_PRETTY} <span size='small' rise='2000'>${WIFI_NAME}.</span>"
+	echo "  ${WIFI_STATE_PRETTY} <span size='small' rise='3000'>${WIFI_NAME}.</span>  "
 elif [[ "${WIFI_STATE}" = "disconnected" ]]; then
 	echo "<span size='xx-large'>睊</span>"
 fi

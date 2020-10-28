@@ -14,6 +14,18 @@
 ## Remove it to not load settings done via the GUI.
 #config.load_autoconfig()
 
+#========== my own fun settings. =========#
+
+
+#c.content.user_stylesheets = ['~/.cache/wal/colors.css'] 
+
+
+
+
+
+
+
+
 ## Aliases for commands. The keys of the given dictionary are the
 ## aliases, while the values are the commands they map to.
 ## Type: Dict
@@ -40,7 +52,7 @@
 ## Valid values:
 ##   - webengine: Use QtWebEngine (based on Chromium).
 ##   - webkit: Use QtWebKit (based on WebKit, similar to Safari).
-# c.backend = 'webengine'
+c.backend = 'webengine'
 
 ## This setting can be used to map keys to other keys. When the key used
 ## as dictionary-key is pressed, the binding for the key used as
@@ -331,7 +343,7 @@
 
 ## Background color of the progress bar.
 ## Type: QssColor
-# c.colors.statusbar.progress.bg = 'white'
+c.colors.statusbar.progress.bg = 'red'
 
 ## Foreground color of the URL in the statusbar on error.
 ## Type: QssColor
@@ -864,7 +876,7 @@
 ##   - true
 ##   - false
 ##   - ask
-# c.content.notifications = 'ask'
+c.content.notifications = False
 
 ## Allow pdf.js to view PDF files in the browser. Note that the files can
 ## still be downloaded by clicking the download button in the pdf.js
@@ -913,7 +925,7 @@
 ##   - true
 ##   - false
 ##   - ask
-# c.content.register_protocol_handler = 'ask'
+c.content.register_protocol_handler = True
 
 ## Enable quirks (such as faked user agent headers) needed to get
 ## specific sites to work properly.
@@ -1000,7 +1012,7 @@
 ## Duration (in milliseconds) to wait before removing finished downloads.
 ## If set to -1, downloads are never removed.
 ## Type: Int
-# c.downloads.remove_finished = -1
+c.downloads.remove_finished = 1000
 
 ## Editor (and arguments) to use for the `open-editor` command. The
 ## following placeholders are defined:  * `{file}`: Filename of the file
@@ -1052,7 +1064,7 @@ c.fonts.default_size = '9pt'
 
 ## Font used for the hints.
 ## Type: Font
-# c.fonts.hints = 'bold default_size default_family'
+c.fonts.hints = 'bold default_size default_family'
 
 ## Font used in the keyhint widget.
 ## Type: Font
@@ -1143,11 +1155,11 @@ c.fonts.tabs.unselected = 'bold default_size default_family'
 
 ## CSS border value for hints.
 ## Type: String
-# c.hints.border = '1px solid #E3BE23'
+#c.hints.border = '1px solid'
 
 ## Characters used for hint strings.
 ## Type: UniqueCharString
-# c.hints.chars = 'asdfghjkl'
+c.hints.chars = 'asdfghjkl'
 
 ## Dictionary file to be used by the word hints.
 ## Type: File
@@ -1186,7 +1198,7 @@ c.fonts.tabs.unselected = 'bold default_size default_family'
 
 ## Padding (in pixels) for hints.
 ## Type: Padding
-# c.hints.padding = {'top': 0, 'bottom': 0, 'left': 3, 'right': 3}
+c.hints.padding = {'top': 5, 'bottom': 5, 'left': 7, 'right': 7}
 
 ## Comma-separated list of regular expressions to use for 'prev' links.
 ## Type: List of Regex
@@ -1421,7 +1433,7 @@ c.fonts.tabs.unselected = 'bold default_size default_family'
 ##   - never: Never show the scrollbar.
 ##   - when-searching: Show the scrollbar when searching for text in the webpage. With the QtWebKit backend, this is equal to `never`.
 ##   - overlay: Show an overlay scrollbar. With Qt < 5.11 or on macOS, this is unavailable and equal to `when-searching`; with the QtWebKit backend, this is equal to `never`. Enabling/disabling overlay scrollbars requires a restart.
-# c.scrolling.bar = 'overlay'
+c.scrolling.bar = 'never'
 
 ## Enable smooth scrolling for web pages. Note smooth scrolling does not
 ## work with the `:scroll-px` command.
@@ -1476,7 +1488,7 @@ c.fonts.tabs.unselected = 'bold default_size default_family'
 ##   - fa-IR: Farsi (Iran)
 ##   - fo-FO: Faroese (Faroe Islands)
 ##   - fr-FR: French (France)
-##   - he-IL: Hebrew (Israel)
+##   - he-IL: Hebrew (Israel)Slippi-online
 ##   - hi-IN: Hindi (India)
 ##   - hr-HR: Croatian (Croatia)
 ##   - hu-HU: Hungarian (Hungary)
@@ -1568,7 +1580,7 @@ c.statusbar.show = 'in-mode'
 ##   - always: Always show favicons.
 ##   - never: Always hide favicons.
 ##   - pinned: Show favicons only on pinned tabs.
-# c.tabs.favicons.show = 'always'
+c.tabs.favicons.show = 'never'
 
 ## Maximum stack size to remember for tab switches (-1 for no maximum).
 ## Type: Int
@@ -1580,7 +1592,7 @@ c.statusbar.show = 'in-mode'
 
 ## Width (in pixels) of the progress indicator (0 to disable).
 ## Type: Int
-# c.tabs.indicator.width = 3
+c.tabs.indicator.width = 0
 
 ## How to behave when the last tab is closed.
 ## Type: String
@@ -1808,11 +1820,11 @@ c.tabs.position = 'bottom'
 
 ## Default zoom level.
 ## Type: Perc
-c.zoom.default = '175%'
+c.zoom.default = '200%'
 
 ## Available zoom levels.
 ## Type: List of Perc
-# c.zoom.levels = ['25%', '33%', '50%', '67%', '75%', '90%', '100%', '110%', '125%', '150%', '175%', '200%', '250%', '300%', '400%', '500%']
+c.zoom.levels = ['25%', '33%', '50%', '67%', '75%', '90%', '100%', '150%', '200%', '250%', '300%', '400%', '500%']
 
 ## Number of zoom increments to divide the mouse wheel movements to.
 ## Type: Int
@@ -1892,8 +1904,8 @@ config.bind('<u>', 'scroll-page 0 -0.5')
 # config.bind('F', 'hint all tab')
 # config.bind('G', 'scroll-to-perc')
 # config.bind('H', 'back')
-# config.bind('J', 'tab-next')
-# config.bind('K', 'tab-prev')
+config.bind('K', 'tab-next')
+config.bind('J', 'tab-prev')
 # config.bind('L', 'forward')
 #config.bind('M', ' ')
 # config.bind('N', 'search-prev')
@@ -1943,7 +1955,7 @@ config.bind('<u>', 'scroll-page 0 -0.5')
 # config.bind('j', 'scroll down')
 # config.bind('k', 'scroll up')
 # config.bind('l', 'scroll right')
-config.bind('m', 'hint links spawn umpv --detach {hint-url}')
+config.bind('m', 'hint links spawn umpv --detach --hwdex=API {hint-url}')
 config.bind('M', 'hint links spawn umpv {hint-url}')
 # config.bind('n', 'search-next')
 #        m: spawn mpv {hint-url}
@@ -2131,13 +2143,13 @@ config.bind('U', 'undo')
 # config.bind('y', 'prompt-accept yes', mode='yesno')
 
 #Pywal Theme Insert
-#config.source('qutewal.py')
+config.source('qutewal.py')
 
 #Nord Theme Insert
 #config.source('nord-qutebrowser.py')
 
 #Fish Theme Insert
-config.source('fishtheme.py')
+#config.source('fishtheme.py')
 
 #import dracula.draw
 

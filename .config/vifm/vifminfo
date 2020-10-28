@@ -9,627 +9,677 @@
 	/home/tuna/bin/
 	..
 1595075465
+'c
+	/home/tuna/.config
+	wal
+1597529982
+'d
+	/home/tuna/Downloads
+	..
+1599879518
 'h
 	/home/tuna/
 	..
-1595075465
+1600735697
 'k
 	/home/tuna/.local
 	share
 1595634758
+'l
+	/home/tuna/.local/bin
+	fishbattery
+1596931714
+'s
+	/home/tuna/Documents/SummitFall2020
+	Fall2020-Schedule.pdf
+1600105034
+'u
+	/run/media/tuna
+	..
+1596351274
+'w
+	/home/tuna
+	.runelite
+1601504820
 
 # Bookmarks:
 
 # TUI:
-al
-q1
-v2
-ov
+ar
+q0
+v1
+oh
 m-1
 l2
 r2
 
 # Left window history (oldest to newest):
-d/home/tuna/DotFiles/.config/qutebrowser
-	bookmarks
-1
-d/home/tuna/DotFiles/.config/qutebrowser/bookmarks
-	..
-0
-d/home/tuna/DotFiles/.config/qutebrowser
-	bookmarks
-1
-d/home/tuna/DotFiles/.config
-	ranger
-14
-d/home/tuna/DotFiles/.config/ranger
-	..
-0
-d/home/tuna/DotFiles/.config
-	i3blocks
-7
-d/home/tuna/DotFiles
+d/home/tuna/.config
+	gtk-2.0
+10
+d/home/tuna
 	.config
+2
+d/home
+	tuna
 1
 d/home/tuna
-	i3wmFishDotFiles
-15
-d/home/tuna/i3wmFishDotFiles
-	README.md
-19
+	.config
+2
+d/home/tuna/Documents/SummitFall2020
+	HisLit
+4
+d/home/tuna/Documents/SummitFall2020/HisLit
+	Notes
+2
+d/home/tuna/Documents/SummitFall2020/HisLit/Notes
+	Notes.md
+1
+d/home/tuna/.config
+	wal
+26
+d/home/tuna/.config/wal
+	colorschemes
+1
+d/home/tuna/.config
+	wal
+26
+d/home/tuna/.config/wal
+	colorschemes
+1
+d/home/tuna/.config/wal/colorschemes
+	dark
+1
+d/home/tuna/.config/wal/colorschemes/dark
+	..
+0
+d/home/tuna/.config/wal/colorschemes
+	light
+2
+d/home/tuna/.config/wal/colorschemes/light
+	..
+0
+d/home/tuna/.config/wal/colorschemes
+	light
+2
+d/home/tuna/.config/wal
+	templates
+2
+d/home/tuna/.config/wal/templates
+	..
+0
+d/home/tuna/.config/wal
+	templates
+2
+d/home/tuna/.config
+	nvim
+20
+d/home/tuna/.config/nvim
+	init.vim
+1
+d/home/tuna/.config
+	nvim
+20
+d/home/tuna
+	.config
+2
+d/home/tuna/Documents/SummitFall2020
+	HisLit
+4
+d/home/tuna/Documents/SummitFall2020/HisLit
+	Notes
+2
+d/home/tuna/Documents/SummitFall2020/HisLit/Notes
+	test3.pdf
+4
+d/home/tuna/Documents/SummitFall2020/HisLit
+	Syllabus.pdf
+3
+d/home/tuna/Documents/SummitFall2020
+	PerTheo
+5
+d/home/tuna/Documents
+	Notes
+4
+d/home/tuna/Documents/Notes
+	test.pdf
+6
+d/home/tuna/Downloads
+	opensans.tex
+5
 d/home/tuna
 	Documents
-8
+16
 d/home/tuna/Documents
-	ArchNotes
-1
-d/home/tuna/Documents/ArchNotes
-	archnotes.md
-1
+	Notes
+4
+d/home/tuna/Documents/Notes
+	missfont.log
+5
 d/home/tuna/Documents
-	ArchNotes
-1
+	Notes
+4
 d/home/tuna
-	.config
-2
-d/home/tuna/.config
-	i3blocks
-7
-d/home/tuna/.config/i3blocks
-	config
+	Documents
+16
+d/home
+	tuna
 1
-d/home/tuna/.config
-	i3
-6
-d/home/tuna/.config/i3
-	..
-0
-d/home/tuna/.config
-	i3
-6
-d/home/tuna/.config/i3
-	config
-1
-d/home/tuna/.config
-	mpv
-8
 d/home/tuna
 	Downloads
-9
-d/home/tuna/Downloads
-	..
-0
-d/home/tuna
-	.config
-2
-d/home/tuna/.config
-	i3blocks
-7
-d/home/tuna/.config/i3blocks
-	config
-1
-d/home/tuna/.config
-	i3blocks
-7
-d/home/tuna
-	.local
-4
-d/home/tuna/.local
-	share
-2
-d/home/tuna
-	.cache
-1
-d/home/tuna/.cache
-	thumbnails
-8
-d/home/tuna
-	.config
-2
-d/home/tuna/.config
-	i3blocks
-7
-d/home/tuna
-	.local
-4
-d/home/tuna/.local
-	share
-2
-d/home/tuna/.local/share
-	vifm
-6
-d/home/tuna/.local/share/vifm
-	Trash
-1
-d/home/tuna/.local/share/vifm/Trash
-	000_i3wmFishDotFiles
-2
-d/home/tuna/.local/share/vifm
-	Trash
-1
-d/home/tuna/.local/share
-	qutebrowser
-4
-d/home/tuna/.local
-	share
-2
-d/home/tuna
-	.config
-2
-d/home/tuna/.config
-	i3
-6
-d/home/tuna/.config/i3
-	config
-1
-d/home/tuna/.config
-	nitrogen
-10
-d/home/tuna
-	Downloads
-9
-d/home/tuna/Downloads
-	..
-0
-d/home/tuna
-	.config
-2
-d/home/tuna/.config
-	nitrogen
-10
-d/home/tuna
-	.bash_history
 17
-d/home
-	tuna
-1
-d/
-	home
+d/home/tuna/Downloads
+	schmidt.pdf
+6
+d/home/tuna
+	Documents
+16
+d/home/tuna/Documents
+	Notes
+4
+d/home/tuna/Documents/Notes
+	ex1.pdf
 5
-d/home
-	tuna
-1
-d/home/tuna
-	Documents
-8
 d/home/tuna/Documents
-	ArchNotes
-1
-d/home/tuna
-	.config
-2
-d/home/tuna/.config
-	i3
-6
-d/home/tuna/.config/i3
-	config
-1
-d/home/tuna/.config
-	i3
-6
-d/home/tuna
-	Documents
-8
+	Notes
+4
+d/home/tuna/Documents/Notes
+	ex1.pdf
+5
 d/home/tuna/Documents
-	ArchNotes
+	BackupDotFiles
 1
-d/home/tuna/Documents/ArchNotes
-	gitnotes
-3
-d/home/tuna/Documents
-	ArchNotes
-1
-d/home/tuna
-	.config
-2
-d/home/tuna/.config
-	qutebrowser
-13
-d/home/tuna/.config/qutebrowser
-	dracula
-2
-d/home/tuna/.config/qutebrowser/dracula
-	__pycache__
-1
-d/home/tuna/.config/qutebrowser/dracula/__pycache__
+d/home/tuna/Documents/BackupDotFiles
 	..
 0
-d/home/tuna/.config/qutebrowser/dracula
-	draw.py
-4
-d/home/tuna/.config/qutebrowser
-	config.py
+d/home/tuna/Documents
+	SummitFall2020
 5
-d/home/tuna/.config
-	qutebrowser
-13
-d/home/tuna/.config/qutebrowser
-	config.py
-5
-d/home/tuna/.config
-	qutebrowser
-13
-d/home/tuna/.config/qutebrowser
-	qsettings
-2
-d/home/tuna/.config
-	qutebrowser
-13
-d/home/tuna
-	.local
-4
-d/home/tuna/.local
-	share
-2
-d/home/tuna/.local/share
-	nvim
-3
-d/home/tuna/.local
-	share
-2
-d/home/tuna
-	.local
-4
-d/home/tuna/.local
-	bin
+d/home/tuna/Documents/SummitFall2020
+	AbnormalPsy
 1
-d/home/tuna/.local/bin
-	fishwifi
+d/home/tuna/Documents/SummitFall2020/AbnormalPsy
+	HandOuts
+1
+d/home/tuna/Documents/SummitFall2020
+	FoundCounsel
+2
+d/home/tuna/Documents/SummitFall2020/FoundCounsel
+	Assignments
+1
+d/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments
+	GodAttachment.md
+1
+d/home/tuna/Documents/SummitFall2020/FoundCounsel
+	Assignments
+1
+d/home/tuna/Documents/SummitFall2020
+	FoundCounsel
+2
+d/home/tuna/Documents
+	SummitFall2020
+5
+d/home/tuna
+	Downloads
+17
+d/home/tuna/Downloads
+	opensans.tex
+5
+d/home/tuna
+	Documents
+16
+d/home/tuna/Documents
+	Notes
+4
+d/home/tuna/Documents/Notes
+	test.md
+9
+d/home/tuna/Documents
+	Notes
+4
+d/home/tuna
+	Documents
+16
+d/home/tuna/Documents
+	SummitFall2020
+5
+d/home/tuna/Documents/SummitFall2020
+	FoundCounsel
+2
+d/home/tuna/Documents/SummitFall2020/FoundCounsel
+	Assignments
+1
+d/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments
+	Titlepage.tex
 3
-d/home/tuna/.local
-	bin
+d/home/tuna/Documents/SummitFall2020/FoundCounsel
+	Assignments
+1
+d/home/tuna/Documents/SummitFall2020
+	FoundCounsel
+2
+d/home/tuna/Documents
+	SummitFall2020
+5
+d/home/tuna/Downloads
+	GodAttachment.pdf
+2
+d/home/tuna
+	Documents
+16
+d/home/tuna/Documents
+	BackupDotFiles
+1
+d/home/tuna/Documents/BackupDotFiles
+	..
+0
+d/home/tuna/Documents
+	Books
+2
+d/home/tuna/Documents/Books
+	John Schember
+1
+d/home/tuna/Documents/Books/John Schember
+	Quick Start Guide (1)
+1
+d/home/tuna/Documents/Books/John Schember/Quick Start Guide (1)
+	metadata.opf
+3
+d/home/tuna/Documents/Books/John Schember
+	Quick Start Guide (1)
+1
+d/home/tuna/Documents/Books
+	John Schember
+1
+d/home/tuna
+	Documents
+16
+d/home/tuna/Documents
+	Books
+2
+d/home/tuna/Documents/Books
+	John Schember
+1
+d/home/tuna/Documents
+	Notes
+4
+d/home/tuna/Documents/Notes
+	test.md
+6
+d/home/tuna/Documents
+	Notes
+4
+d/home/tuna
+	Documents
+16
+d/home/tuna/Documents
+	Notes
+4
+d/home/tuna/Documents/SummitFall2020
+	HisLit
+4
+d/home/tuna/Documents/SummitFall2020/HisLit
+	Syllabus.pdf
+3
+d/home/tuna/Documents/SummitFall2020
+	FoundCounsel
+2
+d/home/tuna/Documents/SummitFall2020/FoundCounsel
+	Assignments
+1
+d/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments
+	Titlepage.dvi
+4
+d/home/tuna/Documents/SummitFall2020/FoundCounsel
+	Assignments
 1
 d/home/tuna
 	Downloads
-9
+17
 d/home/tuna/Downloads
-	8.2.1331
+	temp
 1
-d/home/tuna
-	.config
+d/home/tuna/Downloads/temp
+	main.tex
+1
+d/home/tuna/Downloads
+	temp
+1
+d/home/tuna/Documents/SummitFall2020
+	FoundCounsel
 2
-d/home/tuna/.config
-	nvim
-11
-d/home/tuna/.config/nvim
-	init.vim
+d/home/tuna/Documents/SummitFall2020/FoundCounsel
+	Assignments
 1
-d/home/tuna/.config
-	i3
-6
-d/home/tuna/.config/i3
-	config
-1
-d/home/tuna/.config
-	nvim
-11
-d/home/tuna/.config/nvim
-	init.vim
-1
-d/home/tuna/.config
-	nvim
-11
-d/home/tuna
-	.config
-2
-d/home
-	tuna
-1
-d/
-	home
-5
-d/home
-	tuna
-1
-d/home/tuna
-	.config
-2
-d/home/tuna/.config
-	qutebrowser
-13
-d/home/tuna/.config/qutebrowser
-	nord-qutebrowser.py
-5
+d/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments
+	main.pdf
+7
 d
 
 # Right window history (oldest to newest):
-D/home/tuna/nord-qutebrowser
-	nord-qutebrowser.py
-4
-D/home/tuna/Documents/Officialish
-	DentalIntakeForm.pdf
+D/usr/share/vim
+	vim82
 1
-D/home/tuna/.config
-	i3
-6
-D/home/tuna/.local
-	bin
+D/usr/share/vim/vim82
+	autoload
 1
-D/home/tuna/.local/bin
-	i3b-gate
-3
-D/home/tuna/.local
-	bin
-1
-D/home/tuna/.local/bin
-	battery-poly
-3
-D/home/tuna/.local
-	bin
-1
-D/home/tuna/.local/bin
-	i3b-gate
-3
-D/home/tuna/.local
-	bin
-1
-D/home/tuna/.local/bin
-	battery540
-4
-D/home/tuna/.local
-	bin
-1
-D/home/tuna/.local/bin
-	battery54
-4
-D/home/tuna/.local
-	bin
-1
-D/home/tuna/.local/bin
-	battery89
-1
-D/home/tuna
-	Documents
-2
-D/home/tuna/Documents
-	vifmrc
-3
-D/home/tuna
+D/usr/share/vim/vim82/autoload
 	..
 0
-D/home
-	tuna
+D/usr/share/vim/vim82
+	autoload
 1
-D/
-	usr
-17
-D/usr
-	local
-6
-D/usr/local
-	..
-0
-D/usr
-	share
-8
+D/usr/share/vim
+	vim82
+1
 D/usr/share
-	fonts
-38
-D/usr/share/fonts
-	TTF
-2
-D/usr/share/fonts/TTF
-	Blex Mono Nerd Font Complete.ttf
+	vim
+24
+D/usr
+	src
+9
+D/usr/src
+	hid-lenovo-tp1gen3-0.2.0
+1
+D/usr
+	bin
+1
+D/usr/bin
+	vwebp
 20
 D/home/tuna
-	Desktop
-1
-D/home
-	tuna
-1
-D/home/tuna
-	Documents
-2
-D/home/tuna/Documents
-	BackupDotFiles
-2
-D/home/tuna/Documents/BackupDotFiles
-	configi3
-2
-D/home/tuna/Documents
-	BackupDotFiles
-2
-D/home/tuna/Documents/BackupDotFiles
-	configworkingblokclets
-4
-D/home/tuna/Documents
-	BackupDotFiles
-2
-D/home/tuna/Documents/BackupDotFiles
-	doineedthese
-1
-D/home/tuna/Documents/BackupDotFiles/doineedthese
-	i3nag.sh
-5
-D/home/tuna/Documents/BackupDotFiles
-	doineedthese
-1
-D/home/tuna/Documents
-	BackupDotFiles
-2
-D/home/tuna
-	.local
-4
-D/home/tuna/.local
-	bin
-1
-D/home/tuna
-	.config
-2
-D/home/tuna/.config
-	i3blocks
-7
-D/home/tuna/.config/i3blocks
-	config
-1
-D/home/tuna/.config
-	i3blocks
-7
-D/home/tuna
-	Documents
-8
-D/home/tuna/Documents
-	ArchNotes
-1
-D/home/tuna
-	.cache
-1
-D/home/tuna/.cache
-	..
-0
-D/home/tuna
-	.cache
-1
-D/home/tuna/.cache
-	yay
-11
-D/home/tuna/.cache/yay
-	ncpamixer
-1
-D/home/tuna/.cache/yay/ncpamixer
-	.git
-1
-D/home/tuna/.cache/yay
-	nerd-fonts-complete
+	Downloads
 3
-D/home/tuna/.cache/yay/nerd-fonts-complete
-	nerd-fonts-2.1.0.tar.gz
-5
-D/home/tuna/.cache/yay
-	nerd-fonts-ibm-plex-mono
+D/home/tuna/Documents/SummitFall2020
+	AbnormalPsy
+1
+D/home/tuna/Documents/SummitFall2020/AbnormalPsy
+	Notes
 3
-D/home/tuna/.cache/yay/nerd-fonts-ibm-plex-mono
-	..
-0
-D/home/tuna/.cache/yay
-	polybar
-4
-D/home/tuna/.cache/yay/polybar
-	..
-0
-D/home/tuna/.cache/yay
-	st-luke-git
-5
-D/home/tuna/.cache/yay/st-luke-git
-	..
-0
-D/home/tuna/.cache/yay
-	ttf-font-awesome-4
-6
-D/home/tuna/.cache/yay/ttf-font-awesome-4
-	..
-0
-D/home/tuna/.cache/yay
-	ttf-google-fonts-git
-7
-D/home/tuna/.cache/yay/ttf-google-fonts-git
-	..
-0
-D/home/tuna/.cache/yay
-	ttf-merriweather
-8
-D/home/tuna/.cache/yay/ttf-merriweather
-	..
-0
-D/home/tuna/.cache/yay
-	ttf-merriweather-sans
+D/home/tuna/Documents/SummitFall2020/AbnormalPsy/Notes
+	Notes.md
+2
+D/home/tuna/Documents/SummitFall2020/AbnormalPsy
+	Assn
+1
+D/home/tuna/Documents/SummitFall2020/AbnormalPsy/Assn
+	MarieThompson.md
+1
+D/home/tuna/Documents/SummitFall2020/AbnormalPsy
+	HandOuts
+2
+D/home/tuna/Documents/SummitFall2020
+	Books.md
 9
-D/home/tuna/.cache/yay/ttf-merriweather-sans
-	..
-0
-D/home/tuna/.cache/yay
-	ttf-oswald
-10
-D/home/tuna/.cache/yay/ttf-oswald
-	..
-0
-D/home/tuna/.cache/yay
-	ttf-quintessential
-11
-D/home/tuna/.cache/yay/ttf-quintessential
-	..
-0
-D/home/tuna/.cache/yay
-	ncpamixer
-1
-D/home/tuna/.cache/yay/ncpamixer
-	.git
-1
-D/home/tuna/.cache/yay
-	ncpamixer-git
-2
-D/home/tuna/.cache/yay/ncpamixer-git
-	..
-0
-D/home/tuna/.cache/yay
-	ncpamixer-git
-2
-D/home/tuna/.cache
-	yay
-11
+D/home/tuna/Documents
+	WalkmanEx677.pdf
+5
 D/home/tuna
-	.cache
-1
+	dwm
+11
+D/home/tuna/dwm
+	larbs.mom
+14
+D/home/tuna
+	random.dat
+14
 D/home
 	tuna
 1
 D/
 	home
-5
+4
 D/home
 	tuna
 1
 D/home/tuna
-	DotFiles
-9
-D/home/tuna/DotFiles
-	.local
+	dwm
+27
+D/home/tuna/dwm
+	vanitygaps.c
+22
+D/home/tuna
+	..
+0
+D/home/tuna/Documents/SummitFall2020
+	HisLit
 4
-D/home/tuna/DotFiles/.local
-	share
-2
-D/home/tuna/DotFiles/.local/share
-	nvim
-3
-D/home/tuna/DotFiles/.local/share/nvim
-	site
-2
-D/home/tuna/DotFiles/.local/share
-	vifm
-6
-D/home/tuna/DotFiles/.local/share/vifm
-	Trash
+D/home/tuna/Documents/SummitFall2020/HisLit
+	Assignments
 1
-D/home/tuna/DotFiles/.local/share/vifm/Trash
-	005_battery
-48
-D/home/tuna/DotFiles/.local/share/vifm
+D/home/tuna/Documents/SummitFall2020/HisLit/Assignments
+	HisLitPaper
+1
+D/home/tuna/Documents/SummitFall2020/HisLit/Assignments/HisLitPaper
+	Rehoboam.fls
+4
+D/home/tuna
+	Documents
+2
+D/home/tuna/Documents
+	SummitFall2020
+4
+D/home/tuna/Documents/SummitFall2020
+	AbnormalPsy
+1
+D/home/tuna/Documents/SummitFall2020/AbnormalPsy
+	HandOuts
+2
+D/home/tuna/Documents/SummitFall2020
+	AbnormalPsy
+1
+D/home/tuna/Downloads
+	DSM-5.pdf
+3
+D/home/tuna
+	Downloads
+3
+D/home
+	tuna
+1
+D/home/tuna
+	Downloads
+3
+D/home/tuna/Documents/SummitFall2020
+	Resources
+6
+D/home/tuna/Documents/SummitFall2020/Resources
+	DSM-5.pdf
+1
+D/home/tuna
+	Downloads
+3
+D/home/tuna/Documents/SummitFall2020
+	HisLit
+4
+D/home/tuna/Documents/SummitFall2020/HisLit
+	HandOuts
+2
+D/home/tuna/Documents/SummitFall2020/HisLit/HandOuts
+	Outline 4 Samuel and 1 Kings.pdf
+14
+D/home/tuna
+	Downloads
+3
+D/home/tuna/.config
+	i3
+6
+D/home/tuna/.config/i3
+	config
+1
+D/home/tuna/.config
+	vifm
+9
+D/home/tuna/.config/vifm
+	vifmrc
+7
+D/home/tuna
+	Downloads
+3
+D/home/tuna/Downloads
+	DSM-5.pdf
+3
+D/home/tuna
+	Downloads
+3
+D/home/tuna/Documents/SummitFall2020
+	AbnormalPsy
+1
+D/home/tuna/Documents/SummitFall2020/AbnormalPsy
+	Notes
+3
+D/home/tuna/Documents/SummitFall2020/AbnormalPsy/Notes
+	Notes.pdf
+3
+D/home/tuna/Documents/SummitFall2020/AbnormalPsy
+	syllybus.pdf
+4
+D/home/tuna/Documents/SummitFall2020
+	Guitar
+3
+D/home/tuna
+	texput.log
+14
+D/home/tuna/.config
+	fish
+5
+D/home/tuna/.config/fish
+	..
+0
+D/home/tuna/.config
+	picom
+4
+D/home/tuna/.config/picom
+	picom.conf
+1
+D/home/tuna/Documents/SummitFall2020
 	..
 0
 D/home/tuna
-	QuteBrowser-Nord-Theme
-13
-D/home/tuna/QuteBrowser-Nord-Theme
-	config.py
-4
+	texput.log
+14
+D/home/tuna/.config
+	i3
+12
+D/home/tuna/.config/i3
+	config
+1
+D/home/tuna/Downloads
+	PlPeGr.dat
+9
+D/home/tuna/Documents/SummitFall2020
+	..
+0
 D/home/tuna
-	nord-qutebrowser
-15
-D/home/tuna/nord-qutebrowser
-	nord-qutebrowser.py
+	texput.log
+14
+D/home/tuna/Documents/SummitFall2020
+	HisLit
 4
+D/home/tuna/Documents/SummitFall2020/HisLit
+	PracticeEssays
+4
+D/home/tuna/Documents/SummitFall2020/HisLit/PracticeEssays
+	1.md
+1
+D/home/tuna
+	..
+0
+D/home/tuna/.config
+	vifm
+24
+D/home/tuna/.config/vifm
+	vifmrc
+7
+D/home/tuna
+	hardcorerube (1)
+14
+D/home/tuna/hardcorerube (1)
+	..
+0
+D/home/tuna
+	.minecraft
+8
+D/home/tuna/.minecraft
+	saves
+6
+D/home/tuna/.minecraft/saves
+	..
+0
+D/home/tuna/.minecraft
+	screenshots
+7
+D/home/tuna
+	.minecraft
+8
+D/home/tuna/.minecraft
+	saves
+6
+D/home/tuna/.minecraft/saves
+	..
+0
+D/home/tuna/.minecraft
+	saves
+6
+D/home/tuna
+	.minecraft
+8
+D/home
+	tuna
+1
+D/
+	run
+11
+D/run
+	mount
+9
+D/run/mount
+	utab
+1
+D/run
+	media
+8
+D/run/media
+	tuna
+1
+D/run/media/tuna
+	ANARCHY130
+1
+D/run/media/tuna/ANARCHY130
+	
+1
+D/run/media/tuna
+	..
+0
+D/home/tuna/.local/bin
+	fishusb
+6
+D/home/tuna
+	Desktop
+1
 D
 
 # Command line history (oldest to newest):
+:!mkdir picom
+:!mkdir AbnormalPsy
+:!mkdir Notes.md
+:!nvim Notes.md
+:!mkdir youtube-dl
+:!mkdir config
+:!mkdir themes
+:view
+:fileviewer img.png
+:!nvim lukeusbscript
+:!mkdir i3xrocks
+:!nvim 
+:!nvim umpv
+:!chmod -x umpv
 :l
 :!mkdir Officialish
-:!nvim test
 :!nvim vifmrun
 :!nvim vifmimg
 :!mkdir doineedthese
 :!mkdir .fonts
-:wq
-:!unzip
 :!unzip 
 :!unzip Input-Font.zip
 :!nvim
@@ -639,17 +689,83 @@ D
 :!mkdir Trash
 :empty
 :!nvim gitnotes
-:w
 :!nvim color notes
 :vim .vimrc
 :!vim .vimrc
 :q
+:!vim fin
+:!nvim gin
+:!nvim Usbnotes
+:!mkdir wipscrips
+:!mkdir discordmake
+:!nvim qutebrowser
+:!unzip
+:!unzip metro.zip
+:!unzip payday2.zip
+:set all
+:!nvim fishwall
+:!nvim vifmrc
+:!nvim eGPU
+:!sudo chmod +x gswitch
+:!mkdir LPics
+:!nvim fishthemenotes
+:!mkdir iSpybook
+:!nvim test
+:!mpv
+:!mpv Clever Girl--No Drum and Bass in the Jazz Room (Full Album)-9ANzhPJZ2U0.m4a
+:!mpv ~/Clever Girl--No Drum and Bass in the Jazz Room (Full Album)-9ANzhPJZ2U0.m4a
+:!mkdir SummitFall2020
+:!mkdir HisLit
+:!mkdir Intro
+:!mkdir Notes
+:!mkdir JudgesFailure
+:!nvim interface1.txt
+:!unzip kruggsmash-tileset.zip
+:!mkdir Backup User
+:!mkdir BackUp
+:!nvim Books.md
+:!mkdir Assignments
+:!nvim GodAttachment.md
+:!Guitar
+:!mkdir Guitar
+:!BluesScale
+:!mkdir Scales
+:!nvim Test.markdown
+:!nvim test.md
+:!nvim Titlepage.tex
+:!mkdir temp
+:!unzip template.zip
+:!mkdir Templates
+:!mkdir Assn
+:!mkdir SchoolPics
+:!mkdir Template
+:!nvim r
+:!mkdir Resources
+:wq
+:! unzip 
+:!unzip Green_Peach_--_Arizona_Green_Tea-1.zip
+:!nvim 2.md
+:w
 
 # Search history (oldest to newest):
+/xdg
+/do
+/mpv
+/us
 /office
 /vifm
+/local
+/dmenu
+/i3
+/wal
+/pywal
 
 # Prompt history (oldest to newest):
+psummercamp
+ptesttest.json
+psummercamp1
+pqutewal.py1
+pi3xrocks
 pnord-qutebrowser.pynonwork
 ptest23
 pfishbattery12
@@ -671,13 +787,11 @@ pvifmrc2
 pvifmimg1
 pvifmrcimgnotworking
 pvifmrcworking
-pvifmrc
 pconfig2
 pconfigi3
 pconfignotworking
 pbatteryi3
 pconfig1
-pconfig
 pconfigworkingblokclets
 pconfigblocksnice
 p.Xresources1
@@ -687,11 +801,71 @@ pfishvolume
 pfishbattery
 pfishwifi
 pDentalIntakeForm.pdf
+pconfig.pyr
+pconfig.py
+pfishtheme.py1
+pfishtheme.py
+ptestbutton
+pfirewatch.jpg
+panimal-aquatic-animal-fish-311462.jpgfeh --bg-fill ~/Pictures/Wallpaper/747382.jpg &
+pParks and Recreation S04E05 Meet 'n' Greet.mp4
+pS04
+pi3xrocks.conf
+psummercamp.json
+pmetro.zip
+pPAYDAY 2Rename
+pPAYDAY 2re
+pPAYDAY 2
+ppayday2.zip
+pfishchangewall
+priversunfish.jpg
+priverwalpixel.png
+pvifmrcold
+pvifmrc
+priverwalkpixel.png
+pS05
+pNVIDIA-Linux-x86_64-450.57.runh
+pxswitcher
+pconfigcolorblocks
+pconfignonblocks
+pconfigc
+pconfigblocks
+pprimary.sh
+pconfignonblk
+pconfigcolorblk
+pconfigblokc
+pconfig
+pconfignonblock
+p80scolor.png
+peboymall.png
+peboylondon.png
+pminimaljellyfish.jpg
+pcyberpunkcity.jpg
+pfirewatchdusk.jpg
+ppixelnight.png
+pwesfireworks.jpg
+pcolorblock
+pcolorblockispy
+pfishtest
+pinterface.txt1
+pinterface.txt2
+pinterface.txt3
+pinterface.txt
+pMajor-Scale-5-Shapes.jpg
+pNotes.pdc
+pNotes.md
+pTitlepage.md
+pTitlepage.tex
+passntemplate.tex
+pLatexTemp
+passntemp.tex
+p.xinitrci3
+ppicom.conf
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/tuna/nord-qutebrowser/nord-qutebrowser.py
+""/home/tuna/.minecraft/saves
 
 # Directory stack (oldest to newest):
 
@@ -726,6 +900,380 @@ t/home/tuna/.local/share/vifm/Trash/001_nord-qutebrowser.py
 	/home/tuna/.config/qutebrowser/nord-qutebrowser.py
 t/home/tuna/.local/share/vifm/Trash/000_QuteBrowser-Nord-Theme
 	/home/tuna/QuteBrowser-Nord-Theme
+t/home/tuna/.local/share/vifm/Trash/000_.config
+	/home/tuna/i3wmFishDotFiles/.config
+t/home/tuna/.local/share/vifm/Trash/000_.vimrc
+	/home/tuna/.vimrc
+t/home/tuna/.local/share/vifm/Trash/000_qutebrowser
+	/home/tuna/qutebrowser
+t/home/tuna/.local/share/vifm/Trash/009_config.py
+	/home/tuna/.config/qutebrowser/config.py
+t/home/tuna/.local/share/vifm/Trash/000_Usb
+	/home/tuna/Documents/Usb
+t/home/tuna/.local/share/vifm/Trash/000_fishtheme.py
+	/home/tuna/Documents/fishtheme.py
+t/home/tuna/.local/share/vifm/Trash/000_base16-qutebrowser
+	/home/tuna/base16-qutebrowser
+t/home/tuna/.local/share/vifm/Trash/000_fishtheme.py1
+	/home/tuna/.config/qutebrowser/fishtheme.py1
+t/home/tuna/.local/share/vifm/Trash/000_mpv-shot0001.jpg
+	/home/tuna/Videos/ParksAndRec/S04/mpv-shot0001.jpg
+t/home/tuna/.local/share/vifm/Trash/000_i3xrocks
+	/home/tuna/i3xrocks
+t/home/tuna/.local/share/vifm/Trash/000_qutewal
+	/home/tuna/qutewal
+t/home/tuna/.local/share/vifm/Trash/000_i3blocks-colorscheme-picker
+	/home/tuna/i3blocks-colorscheme-picker
+t/home/tuna/.local/share/vifm/Trash/001_fishtheme.py
+	/home/tuna/.config/qutebrowser/fishtheme.py
+t/home/tuna/.local/share/vifm/Trash/000_i3xrocks.conf
+	/home/tuna/.config/i3xrocks/i3xrocks.conf
+t/home/tuna/.local/share/vifm/Trash/000_qutewal.py2
+	/home/tuna/.config/qutebrowser/qutewal.py2
+t/home/tuna/.local/share/vifm/Trash/000_qutewal.py2
+	/home/tuna/.config/wal/colorschemes/dark/qutewal.py2
+t/home/tuna/.local/share/vifm/Trash/000_metro-for-steam-4.4
+	/home/tuna/Downloads/metro-for-steam-4.4
+t/home/tuna/.local/share/vifm/Trash/000_metro.zip
+	/home/tuna/Downloads/metro.zip
+t/home/tuna/.local/share/vifm/Trash/000_cyber-outrun-vaporwave-synth-retro-car-4k-m6-3840x2400.jpg
+	/home/tuna/Downloads/cyber-outrun-vaporwave-synth-retro-car-4k-m6-3840x2400.jpg
+t/home/tuna/.local/share/vifm/Trash/000_base16-summercamp
+	/home/tuna/base16-summercamp
+t/home/tuna/.local/share/vifm/Trash/000_i3blocks
+	/home/tuna/.config/i3blocks
+t/home/tuna/.local/share/vifm/Trash/000_tlpui
+	/home/tuna/.config/tlpui
+t/home/tuna/.local/share/vifm/Trash/000_fontconfig
+	/home/tuna/.config/fontconfig
+t/home/tuna/.local/share/vifm/Trash/000_nitrogen
+	/home/tuna/.config/nitrogen
+t/home/tuna/.local/share/vifm/Trash/000_PAYDAY 2re
+	/home/tuna/.steam/steam/steamapps/common/PAYDAY 2re
+t/home/tuna/.local/share/vifm/Trash/000_PAYDAY 2
+	/home/tuna/.steam/steam/steamapps/common/PAYDAY 2
+t/home/tuna/.local/share/vifm/Trash/000_buile
+	/home/tuna/buile
+t/home/tuna/.local/share/vifm/Trash/000_payday2-superblt
+	/home/tuna/payday2-superblt
+t/home/tuna/.local/share/vifm/Trash/000_wal_steam
+	/home/tuna/.cache/wal_steam
+t/home/tuna/.local/share/vifm/Trash/001_ranger
+	/home/tuna/.cache/ranger
+t/home/tuna/.local/share/vifm/Trash/000_fishchangewall
+	/home/tuna/.local/bin/fishchangewall
+t/home/tuna/.local/share/vifm/Trash/000_EBY-DynaCity-night-norain-11k.png
+	/home/tuna/Pictures/Wallpaper/EBY-DynaCity-night-norain-11k.png
+t/home/tuna/.local/share/vifm/Trash/000_EBY-SanFrancisco-191k-AccentFrame-03k.png
+	/home/tuna/Pictures/Wallpaper/EBY-SanFrancisco-191k-AccentFrame-03k.png
+t/home/tuna/.local/share/vifm/Trash/000_4K-Fish-Wallpaper-HQ.jpg
+	/home/tuna/Pictures/Wallpaper/4K-Fish-Wallpaper-HQ.jpg
+t/home/tuna/.local/share/vifm/Trash/001_vifmimg
+	/home/tuna/vifmimg
+t/home/tuna/.local/share/vifm/Trash/001_vifmrun
+	/home/tuna/.local/bin/vifmrun
+t/home/tuna/.local/share/vifm/Trash/002_vifmimg
+	/home/tuna/.local/bin/vifmimg
+t/home/tuna/.local/share/vifm/Trash/000_vifmimgpdfpage
+	/home/tuna/.config/vifm/vifmimgpdfpage
+t/home/tuna/.local/share/vifm/Trash/000_vifmimgpdffile
+	/home/tuna/.config/vifm/vifmimgpdffile
+t/home/tuna/.local/share/vifm/Trash/003_vifmimg
+	/home/tuna/.config/vifm/vifmimg
+t/home/tuna/.local/share/vifm/Trash/000_vifmrc
+	/home/tuna/.config/vifm/vifmrc
+t/home/tuna/.local/share/vifm/Trash/000_summercamp.json
+	/home/tuna/.config/wal/colorschemes/dark/summercamp.json
+t/home/tuna/.local/share/vifm/Trash/002_config1
+	/home/tuna/config1
+t/home/tuna/.local/share/vifm/Trash/001_egpu-switcher
+	/home/tuna/egpu-switcher
+t/home/tuna/.local/share/vifm/Trash/001_NVIDIA-Linux-x86_64-450.57.run
+	/home/tuna/Downloads/NVIDIA-Linux-x86_64-450.57.run
+t/home/tuna/.local/share/vifm/Trash/000_nvidia-450.57-9-x86_64.pkg.tar.zst
+	/home/tuna/Downloads/nvidia-450.57-9-x86_64.pkg.tar.zst
+t/home/tuna/.local/share/vifm/Trash/000_primary.sh
+	/home/tuna/.screenlayout/primary.sh
+t/home/tuna/.local/share/vifm/Trash/000_.screenlayout
+	/home/tuna/.screenlayout
+t/home/tuna/.local/share/vifm/Trash/000_gswitch
+	/home/tuna/gswitch
+t/home/tuna/.local/share/vifm/Trash/000_xswitcher
+	/home/tuna/xswitcher
+t/home/tuna/.local/share/vifm/Trash/000_confignonblock
+	/home/tuna/Pictures/confignonblock
+t/home/tuna/.local/share/vifm/Trash/000_colorblock1-2
+	/home/tuna/.config/i3xrocks/themes/colorblock1-2
+t/home/tuna/.local/share/vifm/Trash/000_50209.jpg
+	/home/tuna/Pictures/50209.jpg
+t/home/tuna/.local/share/vifm/Trash/000_50212.jpg
+	/home/tuna/Pictures/50212.jpg
+t/home/tuna/.local/share/vifm/Trash/000_382387.jpg
+	/home/tuna/Pictures/382387.jpg
+t/home/tuna/.local/share/vifm/Trash/000_382620.jpg
+	/home/tuna/Pictures/382620.jpg
+t/home/tuna/.local/share/vifm/Trash/000_Frederiksberg2.jpg
+	/home/tuna/Pictures/Frederiksberg2.jpg
+t/home/tuna/.local/share/vifm/Trash/001_IMG_2259.JPG
+	/home/tuna/Pictures/IMG_2259.JPG
+t/home/tuna/.local/share/vifm/Trash/001_IMG_2295.JPG
+	/home/tuna/Pictures/IMG_2295.JPG
+t/home/tuna/.local/share/vifm/Trash/001_IMG_2377.JPG
+	/home/tuna/Pictures/IMG_2377.JPG
+t/home/tuna/.local/share/vifm/Trash/000_amsterdam-3840x2160-channel-4k-18504.jpg
+	/home/tuna/Pictures/amsterdam-3840x2160-channel-4k-18504.jpg
+t/home/tuna/.local/share/vifm/Trash/000_glWla8v.png
+	/home/tuna/Pictures/glWla8v.png
+t/home/tuna/.local/share/vifm/Trash/000_jDMkPV.png
+	/home/tuna/Pictures/jDMkPV.png
+t/home/tuna/.local/share/vifm/Trash/000_morning-in-a-valleylow-poly-render-i-did.-wallpaper_.jpg
+	/home/tuna/Pictures/morning-in-a-valleylow-poly-render-i-did.-wallpaper_.jpg
+t/home/tuna/.local/share/vifm/Trash/000_mountains-grids-polygon-4k-a9.jpg
+	/home/tuna/Pictures/mountains-grids-polygon-4k-a9.jpg
+t/home/tuna/.local/share/vifm/Trash/001_IMG_2373.JPG
+	/home/tuna/Pictures/IMG_2373.JPG
+t/home/tuna/.local/share/vifm/Trash/000_cyberpunk-city-streets-5k-mn-2560x1700.jpg
+	/home/tuna/Pictures/cyberpunk-city-streets-5k-mn-2560x1700.jpg
+t/home/tuna/.local/share/vifm/Trash/000_hong-kong-2560x1440-skyline-nightscape-4k-6383.jpg
+	/home/tuna/Pictures/hong-kong-2560x1440-skyline-nightscape-4k-6383.jpg
+t/home/tuna/.local/share/vifm/Trash/000_wallpaper-ultra-hd-4k_110632176_312.jpg
+	/home/tuna/Pictures/wallpaper-ultra-hd-4k_110632176_312.jpg
+t/home/tuna/.local/share/vifm/Trash/000_wp1902598.jpg
+	/home/tuna/Pictures/wp1902598.jpg
+t/home/tuna/.local/share/vifm/Trash/000_wp4027183.jpg
+	/home/tuna/Pictures/wp4027183.jpg
+t/home/tuna/.local/share/vifm/Trash/000_windows-10x-stock-wallpaper_600x338-mm-90.webp
+	/home/tuna/Pictures/windows-10x-stock-wallpaper_600x338-mm-90.webp
+t/home/tuna/.local/share/vifm/Trash/000_4K-Fish-Photo2.jpg
+	/home/tuna/Pictures/Wallpaper/4K-Fish-Photo2.jpg
+t/home/tuna/.local/share/vifm/Trash/000_8-Bit-HD-Image.png
+	/home/tuna/Pictures/Wallpaper/8-Bit-HD-Image.png
+t/home/tuna/.local/share/vifm/Trash/000_43842-pixel_art.jpg
+	/home/tuna/Pictures/Wallpaper/43842-pixel_art.jpg
+t/home/tuna/.local/share/vifm/Trash/001_50209.jpg
+	/home/tuna/Pictures/Wallpaper/50209.jpg
+t/home/tuna/.local/share/vifm/Trash/001_50212.jpg
+	/home/tuna/Pictures/Wallpaper/50212.jpg
+t/home/tuna/.local/share/vifm/Trash/000_74308.jpg
+	/home/tuna/Pictures/Wallpaper/74308.jpg
+t/home/tuna/.local/share/vifm/Trash/000_99810.jpg
+	/home/tuna/Pictures/Wallpaper/99810.jpg
+t/home/tuna/.local/share/vifm/Trash/000_106264-polygon-4k-5k-wallpaper-landscape-nature-low-poly-3d.jpg
+	/home/tuna/Pictures/Wallpaper/106264-polygon-4k-5k-wallpaper-landscape-nature-low-poly-3d.jpg
+t/home/tuna/.local/share/vifm/Trash/001_382387.jpg
+	/home/tuna/Pictures/Wallpaper/382387.jpg
+t/home/tuna/.local/share/vifm/Trash/001_382620.jpg
+	/home/tuna/Pictures/Wallpaper/382620.jpg
+t/home/tuna/.local/share/vifm/Trash/000_675413.jpg
+	/home/tuna/Pictures/Wallpaper/675413.jpg
+t/home/tuna/.local/share/vifm/Trash/001_Frederiksberg2.jpg
+	/home/tuna/Pictures/Wallpaper/Frederiksberg2.jpg
+t/home/tuna/.local/share/vifm/Trash/002_IMG_2259.JPG
+	/home/tuna/Pictures/Wallpaper/IMG_2259.JPG
+t/home/tuna/.local/share/vifm/Trash/002_IMG_2295.JPG
+	/home/tuna/Pictures/Wallpaper/IMG_2295.JPG
+t/home/tuna/.local/share/vifm/Trash/002_IMG_2373.JPG
+	/home/tuna/Pictures/Wallpaper/IMG_2373.JPG
+t/home/tuna/.local/share/vifm/Trash/002_IMG_2377.JPG
+	/home/tuna/Pictures/Wallpaper/IMG_2377.JPG
+t/home/tuna/.local/share/vifm/Trash/001_amsterdam-3840x2160-channel-4k-18504.jpg
+	/home/tuna/Pictures/Wallpaper/amsterdam-3840x2160-channel-4k-18504.jpg
+t/home/tuna/.local/share/vifm/Trash/001_cyber-outrun-vaporwave-synth-retro-car-4k-m6-3840x2400.jpg
+	/home/tuna/Pictures/Wallpaper/cyber-outrun-vaporwave-synth-retro-car-4k-m6-3840x2400.jpg
+t/home/tuna/.local/share/vifm/Trash/000_fish-wallpaper-white.jpg
+	/home/tuna/Pictures/Wallpaper/fish-wallpaper-white.jpg
+t/home/tuna/.local/share/vifm/Trash/001_glWla8v.png
+	/home/tuna/Pictures/Wallpaper/glWla8v.png
+t/home/tuna/.local/share/vifm/Trash/001_hong-kong-2560x1440-skyline-nightscape-4k-6383.jpg
+	/home/tuna/Pictures/Wallpaper/hong-kong-2560x1440-skyline-nightscape-4k-6383.jpg
+t/home/tuna/.local/share/vifm/Trash/001_jDMkPV.png
+	/home/tuna/Pictures/Wallpaper/jDMkPV.png
+t/home/tuna/.local/share/vifm/Trash/001_jellyfish-wallpaper.jpg
+	/home/tuna/Pictures/Wallpaper/jellyfish-wallpaper.jpg
+t/home/tuna/.local/share/vifm/Trash/000_low-poly-river-landscape-minimalist-minimalism-y7312.jpg
+	/home/tuna/Pictures/Wallpaper/low-poly-river-landscape-minimalist-minimalism-y7312.jpg
+t/home/tuna/.local/share/vifm/Trash/000_minimal-lake-sunset-img.jpg
+	/home/tuna/Pictures/Wallpaper/minimal-lake-sunset-img.jpg
+t/home/tuna/.local/share/vifm/Trash/000_minimaljellyfish.jpg
+	/home/tuna/Pictures/Wallpaper/minimaljellyfish.jpg
+t/home/tuna/.local/share/vifm/Trash/001_morning-in-a-valleylow-poly-render-i-did.-wallpaper_.jpg
+	/home/tuna/Pictures/Wallpaper/morning-in-a-valleylow-poly-render-i-did.-wallpaper_.jpg
+t/home/tuna/.local/share/vifm/Trash/001_mountains-grids-polygon-4k-a9.jpg
+	/home/tuna/Pictures/Wallpaper/mountains-grids-polygon-4k-a9.jpg
+t/home/tuna/.local/share/vifm/Trash/000_synth-waterfall-4a.jpg
+	/home/tuna/Pictures/Wallpaper/synth-waterfall-4a.jpg
+t/home/tuna/.local/share/vifm/Trash/000_synthwave-wallpaper-5120x2160.jpg
+	/home/tuna/Pictures/Wallpaper/synthwave-wallpaper-5120x2160.jpg
+t/home/tuna/.local/share/vifm/Trash/000_valley-8-bit-4k-43.jpg
+	/home/tuna/Pictures/Wallpaper/valley-8-bit-4k-43.jpg
+t/home/tuna/.local/share/vifm/Trash/001_wallpaper-ultra-hd-4k_110632176_312.jpg
+	/home/tuna/Pictures/Wallpaper/wallpaper-ultra-hd-4k_110632176_312.jpg
+t/home/tuna/.local/share/vifm/Trash/001_wp1902598.jpg
+	/home/tuna/Pictures/Wallpaper/wp1902598.jpg
+t/home/tuna/.local/share/vifm/Trash/000_wp2343966.jpg
+	/home/tuna/Pictures/Wallpaper/wp2343966.jpg
+t/home/tuna/.local/share/vifm/Trash/000_80scolor.png
+	/home/tuna/Pictures/80scolor.png
+t/home/tuna/.local/share/vifm/Trash/000_IMG_2292.JPG
+	/home/tuna/Pictures/IMG_2292.JPG
+t/home/tuna/.local/share/vifm/Trash/000_neon-sunset-3840x2160_74456-mm-90.jpg
+	/home/tuna/Pictures/neon-sunset-3840x2160_74456-mm-90.jpg
+t/home/tuna/.local/share/vifm/Trash/000_northrop-grumman-x-47b-3840x2160_65969-mm-90.jpg
+	/home/tuna/Pictures/northrop-grumman-x-47b-3840x2160_65969-mm-90.jpg
+t/home/tuna/.local/share/vifm/Trash/000_the-mandalorian-5k-3840x2160_477555-mm-90.jpg
+	/home/tuna/Pictures/the-mandalorian-5k-3840x2160_477555-mm-90.jpg
+t/home/tuna/.local/share/vifm/Trash/000_xd3cep2milb51.jpg
+	/home/tuna/Pictures/xd3cep2milb51.jpg
+t/home/tuna/.local/share/vifm/Trash/000__000
+	/home/tuna/Pictures/screenshots/_000
+t/home/tuna/.local/share/vifm/Trash/000__001
+	/home/tuna/Pictures/screenshots/_001
+t/home/tuna/.local/share/vifm/Trash/000_2020-08-20-011448_3000x2000_scrot.png
+	/home/tuna/Pictures/screenshots/2020-08-20-011448_3000x2000_scrot.png
+t/home/tuna/.local/share/vifm/Trash/000_Covet 'falkor' (full band playthrough)-FTxSXUzc96A.m4a
+	/home/tuna/Covet 'falkor' (full band playthrough)-FTxSXUzc96A.m4a
+t/home/tuna/.local/share/vifm/Trash/000_Covet 'falkor' (full band playthrough)-FTxSXUzc96A.webp
+	/home/tuna/Covet 'falkor' (full band playthrough)-FTxSXUzc96A.webp
+t/home/tuna/.local/share/vifm/Trash/000_American Football - American Football (LP1) [FULL ALBUM STREAM]-QZNYVt87y60.m4a
+	/home/tuna/American Football - American Football (LP1) [FULL ALBUM STREAM]-QZNYVt87y60.m4a
+t/home/tuna/.local/share/vifm/Trash/000_American Football - American Football (LP1) [FULL ALBUM STREAM]-QZNYVt87y60.webp
+	/home/tuna/American Football - American Football (LP1) [FULL ALBUM STREAM]-QZNYVt87y60.webp
+t/home/tuna/.local/share/vifm/Trash/000_Battles - The Yabba-bkhLzHuUYmo.m4a
+	/home/tuna/Battles - The Yabba-bkhLzHuUYmo.m4a
+t/home/tuna/.local/share/vifm/Trash/001_Clever Girl--No Drum and Bass in the Jazz Room (Full Album)-9ANzhPJZ2U0.m4a
+	/home/tuna/Clever Girl--No Drum and Bass in the Jazz Room (Full Album)-9ANzhPJZ2U0.m4a
+t/home/tuna/.local/share/vifm/Trash/000_Covet - 'shibuya' (ft.San Holo) (official video)-RXGwVJCdV6A.m4a
+	/home/tuna/Covet - 'shibuya' (ft.San Holo) (official video)-RXGwVJCdV6A.m4a
+t/home/tuna/.local/share/vifm/Trash/000_Covet - 'shibuya' (ft.San Holo) (official video)-RXGwVJCdV6A.webp
+	/home/tuna/Covet - 'shibuya' (ft.San Holo) (official video)-RXGwVJCdV6A.webp
+t/home/tuna/.local/share/vifm/Trash/000_Hydrogen-_lezvfWiH-0.m4a
+	/home/tuna/Hydrogen-_lezvfWiH-0.m4a
+t/home/tuna/.local/share/vifm/Trash/000_Payday 2 Official Soundtrack - #28 Supersledge-nSuZzCEZZkA.m4a
+	/home/tuna/Payday 2 Official Soundtrack - #28 Supersledge-nSuZzCEZZkA.m4a
+t/home/tuna/.local/share/vifm/Trash/000_Rain - Rob Scallon-kdURqcVxIdk.m4a
+	/home/tuna/Rain - Rob Scallon-kdURqcVxIdk.m4a
+t/home/tuna/.local/share/vifm/Trash/000_Rain - Rob Scallon-kdURqcVxIdk.webp
+	/home/tuna/Rain - Rob Scallon-kdURqcVxIdk.webp
+t/home/tuna/.local/share/vifm/Trash/000_Remo Drive - Yer Killin' Me-1kaMiIaT-sg.m4a
+	/home/tuna/Remo Drive - Yer Killin' Me-1kaMiIaT-sg.m4a
+t/home/tuna/.local/share/vifm/Trash/000_Remo Drive - Yer Killin' Me-1kaMiIaT-sg.webp
+	/home/tuna/Remo Drive - Yer Killin' Me-1kaMiIaT-sg.webp
+t/home/tuna/.local/share/vifm/Trash/000_大象體操ElephantGym _ FINGER & 中途Midway【Live on Megaport Festival】-saccx5dTmKU.webp
+	/home/tuna/大象體操ElephantGym _ FINGER & 中途Midway【Live on Megaport Festival】-saccx5dTmKU.webp
+t/home/tuna/.local/share/vifm/Trash/000_大象體操ElephantGym _ FINGER & 中途Midway【Live on Megaport Festival】-saccx5dTmKU.m4a
+	/home/tuna/大象體操ElephantGym _ FINGER & 中途Midway【Live on Megaport Festival】-saccx5dTmKU.m4a
+t/home/tuna/.local/share/vifm/Trash/000_Hydrogen-_lezvfWiH-0.webm
+	/home/tuna/Hydrogen-_lezvfWiH-0.webm
+t/home/tuna/.local/share/vifm/Trash/000_Kole_Covenant_IPSA_and_RAN.pdf
+	/home/tuna/Documents/Kole_Covenant_IPSA_and_RAN.pdf
+t/home/tuna/.local/share/vifm/Trash/000_Notes.md
+	/home/tuna/Documents/SummitFall2020/HisLit/Notes/Notes.md
+t/home/tuna/.local/share/vifm/Trash/002_Hydrogen-_lezvfWiH-0.m4a
+	/home/tuna/.dwarffortress/data/init/Hydrogen-_lezvfWiH-0.m4a
+t/home/tuna/.local/share/vifm/Trash/000_colors.txt
+	/home/tuna/.dwarffortress/data/init/colors.txt
+t/home/tuna/.local/share/vifm/Trash/002_kruggsmash-tileset.zip
+	/home/tuna/Downloads/kruggsmash-tileset.zip
+t/home/tuna/.local/share/vifm/Trash/000_Backup
+	/home/tuna/.config/SlippiOnline/Backup
+t/home/tuna/.local/share/vifm/Trash/000_User
+	/home/tuna/.config/SlippiOnline/User
+t/home/tuna/.local/share/vifm/Trash/000_configfloating.py
+	/home/tuna/.config/qutebrowser/configfloating.py
+t/home/tuna/.local/share/vifm/Trash/000_PSYC 343 2020 Lecture 1 Intro Remaining slides.pdf
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/HandOuts/PSYC 343 2020 Lecture 1 Intro Remaining slides.pdf
+t/home/tuna/.local/share/vifm/Trash/000_test3.pdf
+	/home/tuna/Documents/SummitFall2020/HisLit/Notes/test3.pdf
+t/home/tuna/.local/share/vifm/Trash/000_test.pdf
+	/home/tuna/Documents/Notes/test.pdf
+t/home/tuna/.local/share/vifm/Trash/000_ex.pdf
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments/ex.pdf
+t/home/tuna/.local/share/vifm/Trash/001_ex.pdf
+	/home/tuna/Documents/Notes/ex.pdf
+t/home/tuna/.local/share/vifm/Trash/000_ex1.pdf
+	/home/tuna/Documents/Notes/ex1.pdf
+t/home/tuna/.local/share/vifm/Trash/000_ex2.pdf
+	/home/tuna/Documents/Notes/ex2.pdf
+t/home/tuna/.local/share/vifm/Trash/002_test3.pdf
+	/home/tuna/Documents/Notes/test3.pdf
+t/home/tuna/.local/share/vifm/Trash/000_texput.log
+	/home/tuna/Documents/Notes/texput.log
+t/home/tuna/.local/share/vifm/Trash/000_Titlepage.tex
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments/Titlepage.tex
+t/home/tuna/.local/share/vifm/Trash/000_Titlepage.log
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments/Titlepage.log
+t/home/tuna/.local/share/vifm/Trash/000_Titlepage.dvi
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments/Titlepage.dvi
+t/home/tuna/.local/share/vifm/Trash/000_Titlepage.aux
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments/Titlepage.aux
+t/home/tuna/.local/share/vifm/Trash/002_title_page_1.aux
+	/home/tuna/Downloads/temp/title_page_1.aux
+t/home/tuna/.local/share/vifm/Trash/002_title_page_1.log
+	/home/tuna/Downloads/temp/title_page_1.log
+t/home/tuna/.local/share/vifm/Trash/002_title_page_1.pdf
+	/home/tuna/Downloads/temp/title_page_1.pdf
+t/home/tuna/.local/share/vifm/Trash/000_Titlepage.md
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments/Titlepage.md
+t/home/tuna/.local/share/vifm/Trash/000_Titlepage.pdf
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments/Titlepage.pdf
+t/home/tuna/.local/share/vifm/Trash/001_main.aux
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments/main.aux
+t/home/tuna/.local/share/vifm/Trash/001_main.log
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments/main.log
+t/home/tuna/.local/share/vifm/Trash/001_main.pdf
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments/main.pdf
+t/home/tuna/.local/share/vifm/Trash/003_main.tex
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments/main.tex
+t/home/tuna/.local/share/vifm/Trash/000_test.md
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments/test.md
+t/home/tuna/.local/share/vifm/Trash/001_texput.log
+	/home/tuna/Documents/SummitFall2020/FoundCounsel/Assignments/texput.log
+t/home/tuna/.local/share/vifm/Trash/001_logo.png
+	/home/tuna/Documents/SummitFall2020/Templates/LatexTemp/logo.png
+t/home/tuna/.local/share/vifm/Trash/000_assntemp.pdf
+	/home/tuna/Documents/SummitFall2020/Templates/LatexTemp/assntemp.pdf
+t/home/tuna/.local/share/vifm/Trash/000_assntemp.log
+	/home/tuna/Documents/SummitFall2020/Templates/LatexTemp/assntemp.log
+t/home/tuna/.local/share/vifm/Trash/000_assntemp.aux
+	/home/tuna/Documents/SummitFall2020/Templates/LatexTemp/assntemp.aux
+t/home/tuna/.local/share/vifm/Trash/000_assntemp.synctex.gz
+	/home/tuna/Documents/SummitFall2020/Templates/LatexTemp/assntemp.synctex.gz
+t/home/tuna/.local/share/vifm/Trash/000_assntemp.fls
+	/home/tuna/Documents/SummitFall2020/Templates/LatexTemp/assntemp.fls
+t/home/tuna/.local/share/vifm/Trash/000_assntemp.fdb_latexmk
+	/home/tuna/Documents/SummitFall2020/Templates/LatexTemp/assntemp.fdb_latexmk
+t/home/tuna/.local/share/vifm/Trash/000_LatexTemp
+	/home/tuna/Documents/SummitFall2020/Templates/LatexTemp
+t/home/tuna/.local/share/vifm/Trash/000_assntemp3.aux
+	/home/tuna/Documents/SummitFall2020/Templates/assntemp3.aux
+t/home/tuna/.local/share/vifm/Trash/000_assntemp3.fdb_latexmk
+	/home/tuna/Documents/SummitFall2020/Templates/assntemp3.fdb_latexmk
+t/home/tuna/.local/share/vifm/Trash/000_assntemp3.fls
+	/home/tuna/Documents/SummitFall2020/Templates/assntemp3.fls
+t/home/tuna/.local/share/vifm/Trash/000_assntemp3.log
+	/home/tuna/Documents/SummitFall2020/Templates/assntemp3.log
+t/home/tuna/.local/share/vifm/Trash/000_assntemp3.pdf
+	/home/tuna/Documents/SummitFall2020/Templates/assntemp3.pdf
+t/home/tuna/.local/share/vifm/Trash/000_assntemp3.synctex.gz
+	/home/tuna/Documents/SummitFall2020/Templates/assntemp3.synctex.gz
+t/home/tuna/.local/share/vifm/Trash/000_assntemp3.tex
+	/home/tuna/Documents/SummitFall2020/Templates/assntemp3.tex
+t/home/tuna/.local/share/vifm/Trash/000_InputSerif
+	/home/tuna/.local/share/fonts/InputSerif
+t/home/tuna/.local/share/vifm/Trash/000_right.sh
+	/home/tuna/Documents/right.sh
+t/home/tuna/.local/share/vifm/Trash/000_user.json
+	/home/tuna/Documents/user.json
+t/home/tuna/.local/share/vifm/Trash/000_120132642_199567521589053_3783246021646829618_n.jpg
+	/home/tuna/Downloads/120132642_199567521589053_3783246021646829618_n.jpg
+t/home/tuna/.local/share/vifm/Trash/000_2D2D2D.png
+	/home/tuna/Downloads/2D2D2D.png
+t/home/tuna/.local/share/vifm/Trash/000_Input-Font.zip
+	/home/tuna/Downloads/Input-Font.zip
+t/home/tuna/.local/share/vifm/Trash/000_dwm
+	/home/tuna/dwm
+t/home/tuna/.local/share/vifm/Trash/009_config
+	/home/tuna/.config/i3xrocks/config
 
 # State:
 f
@@ -734,6 +1282,6 @@ i1
 [F
 F
 I1
-].0
+].1
 ]F
 s0
